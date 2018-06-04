@@ -1,5 +1,7 @@
-## Homework
+## June 4th, 2018
+Today's lecture will be Introduction and we spend time getting to know more about each other.\
 
+## Homework
 1. Research about Information Technology
 
 2. Research about Version Control System and Git, follow the tutorials at 
