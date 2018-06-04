@@ -27,6 +27,7 @@ Each student will build an application of their own choice. It should be a web a
 - We will simulate a *"2-week sprint"* in which you will have to provide me an update on your project **every 2 weeks**
 - If you are unable to come up with an idea of what you should be building, please ask! I'll be very happy to help!
 
+&nbsp;
 ## Course Outline
 1. Course Introduction (1 class)
 2. Introduction to Computing (1 class)
