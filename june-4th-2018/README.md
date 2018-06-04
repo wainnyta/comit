@@ -1,6 +1,7 @@
 ## June 4th, 2018
 Today's lecture will be Introduction and we spend time getting to know more about each other.
 &nbsp;
+&nbsp;
 
 ## Homework
 1. Research about Information Technology
