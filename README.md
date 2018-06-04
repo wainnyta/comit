@@ -18,6 +18,15 @@
 - **Civic Holiday/ Terry Fox Day:** Monday, August 6th, 2018
 - **Labour Day:** Monday, September 3rd, 2018
 
+
+## Student's Individual Project
+Each student will build an application of their own choice. It should be a web application with functional back end and front end. 
+- Example applications could be: A Banking System, A Rock-Paper-Scissor game, A School System, Inventory Management System, A simple Ecommerce Store, etc.  
+- You will use your own Github account to host your project, you will need to email me your Github account on or before **June 8th, 2018**
+- You will need to submit a Project Proposal that will briefly describe what you have chosen to build on **June 20th, 2018**
+- We will simulate a *"2-week sprint"* in which you will have to provide me an update on your project **every 2 weeks**
+- If you are unable to come up with an idea of what you should be building, please ask! I'll be very happy to help!
+
 ## Course Outline
 1. Course Introduction (1 class)
 2. Introduction to Computing (1 class)
