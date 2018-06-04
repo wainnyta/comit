@@ -19,6 +19,8 @@
 - **Labour Day:** Monday, September 3rd, 2018
 
 
+
+
 ## Student's Individual Project
 Each student will build an application of their own choice. It should be a web application with functional back end and front end. 
 - Example applications could be: A Banking System, A Rock-Paper-Scissor game, A School System, Inventory Management System, A simple Ecommerce Store, etc.  
