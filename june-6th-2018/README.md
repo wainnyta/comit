@@ -9,13 +9,14 @@ Next week lecture we will learn about **Propositional Logic**.
 
 ## Resources 
 
-#### How Computer Works video series
+### How Computer Works video series
 https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-
 
-#### The future of Programming by Uncle Bob Martin (author of many famous Computer Science books such as Clean code etc.)
+### The future of Programming by Uncle Bob Martin 
+(Uncle Bob is the author of many famous Computer Science books such as Clean code etc.)
 https://www.youtube.com/watch?v=ecIWPzGEbFc
 
-#### Alan Turing: The Father of Modern Computer Science
+### Alan Turing: The Father of Modern Computer Science
 > Alan Turing is considered by many to be the father of modern computer science as the world knows it. He formed the concept of the algorithms and computations with one of his inventions, the Turing machine.
 
 The Turing machine is described in this paper by Alan Turing: 
