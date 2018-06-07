@@ -14,6 +14,7 @@ https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqW
 
 ### The future of Programming by Uncle Bob Martin 
 (Uncle Bob is the author of many famous books such as Clean code etc.)
+
 https://www.youtube.com/watch?v=ecIWPzGEbFc
 
 ### Alan Turing: The Father of Modern Computer Science
