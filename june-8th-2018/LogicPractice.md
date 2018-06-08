@@ -1,4 +1,4 @@
-# Introduction to Logics
+# Introduction to Logics Practices
 
 ### Question 1
 Mark the link terms (if any) in the following propositions. Find how many atomic propositions are found in each molecular proposition. Recall that << if ..., then >> is a single link term.
