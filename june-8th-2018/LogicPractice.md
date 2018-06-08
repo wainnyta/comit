@@ -50,21 +50,22 @@ Doesn’t happen that if x + 0 = 10 then x = 5.
 ### Question 4
 Let p, q, r, s, t, m, n and v be atomic propositions, to which I assign the following sentences.
 
-     p: John traveled in the 8 A.M plane.
-     q: Peter arrived on time to the airport.
-     r: The project was presented to the board of directors.
-     s: The flight was delayed
-     t: Peter travels on the plane
-    m: “x + y = 0”; n: “x = 2”; v: “y = -2”
+- p: John traveled in the 8 A.M plane.
+- q: Peter arrived on time to the airport.
+- r: The project was presented to the board of directors.
+- s: The flight was delayed
+- t: Peter travels on the plane
+- m: “x + y = 0”; n: “x = 2”; v: “y = -2”
 
+### Question 5
 Interpret the molecular propositions formed. That is, express in natural language the following propositions. Group by using parentheses to better recognize the precedence of operators and form a sentence.
 
-q -> ~p 
-(p ^ s) -> t
-~q -> (~r ^ ~p )
- (n ^ ~n) -> n 
+- q -> ~p 
+- (p ^ s) -> t
+- ~q -> (~r ^ ~p )
+- (n ^ ~n) -> n 
  
-### Question 5
+### Question 6
 Build the truth tables for the following prepositional forms.
 
 ~q v (p ^ q)
@@ -73,17 +74,17 @@ p ^ q ↔  q ^ p
 p -> q ↔ q -> p
 a ^ (b v ~a)
 
-### Question 6
+### Question 7
 Interpret the previous prepositional forms.
 
-### Question 7
+### Question 8
 Build the truth tables for the following prepositional forms
 
 p -> (q -> r)
 (p ^ q) -> r
 
 
-### Question 8
+### Question 9
 Build the truth tables for the following prepositional forms
 
 (p -> q) ^ (q -> r)
