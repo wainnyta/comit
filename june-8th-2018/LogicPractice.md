@@ -1,6 +1,6 @@
-#Introduction to Logics
+# Introduction to Logics
 
-###Question 1
+### Question 1
 Mark the link terms (if any) in the following propositions. Find how many atomic propositions are found in each molecular proposition. Recall that << if ..., then >> is a single link term.
 
 This is not my happy day.
@@ -15,7 +15,7 @@ If x = 1 o z = 2 then y > 1
 If z > 10 then “x + z > 10” and “y + z > 10”.
 x + y = y + x
 
-###Question 2
+### Question 2
 Recognize the propositional structure of each sentence below, to do so underline the atomic propositions, mark the link terms and group them into molecules.
 
 The meal will be today at three o'clock.
@@ -35,7 +35,7 @@ To defeat Voldemort, Harry destroyed the Horcruxes.
 If I collect wood then I can build a ship and thus sail across the Atlantic.
 Since I collect wood then I can build a boat and, if I build a boat then I sail to the other side of the Atlantic.
 
-###Question 3
+### Question 3
 Idem previous exercise, only use parentheses to show the structure of the following molecular propositions.
 
 John is here and Mary has left.
@@ -47,7 +47,7 @@ y = 0 and x = 0
 Doesn’t happen that 6 = 7
 Doesn’t happen that if x + 0 = 10 then x = 5.
 
-###Question 4
+### Question 4
 Let p, q, r, s, t, m, n and v be atomic propositions, to which I assign the following sentences.
 
      p: John traveled in the 8 A.M plane.
@@ -64,7 +64,7 @@ q -> ~p
 ~q -> (~r ^ ~p )
  (n ^ ~n) -> n 
  
-###Question 5
+### Question 5
 Build the truth tables for the following prepositional forms.
 
 ~q v (p ^ q)
@@ -73,17 +73,17 @@ p ^ q ↔  q ^ p
 p -> q ↔ q -> p
 a ^ (b v ~a)
 
-###Question 6
+### Question 6
 Interpret the previous prepositional forms.
 
-###Question 7
+### Question 7
 Build the truth tables for the following prepositional forms
 
 p -> (q -> r)
 (p ^ q) -> r
 
 
-###Question 8
+### Question 8
 Build the truth tables for the following prepositional forms
 
 (p -> q) ^ (q -> r)
