@@ -56,8 +56,6 @@ Let p, q, r, s, t, m, n and v be atomic propositions, to which I assign the foll
 - s: The flight was delayed
 - t: Peter travels on the plane
 - m: “x + y = 0”; n: “x = 2”; v: “y = -2”
-
-### Question 5
 Interpret the molecular propositions formed. That is, express in natural language the following propositions. Group by using parentheses to better recognize the precedence of operators and form a sentence.
 
 - q -> ~p 
