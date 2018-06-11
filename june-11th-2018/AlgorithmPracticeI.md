@@ -13,12 +13,21 @@ Answer the following questions based on what we’ve seen in class and research 
 
 3)  Explain the steps you normally take to solve a problem.
 
-4) A man found to fly in his coffee and sent his coffee back to the kitchen. When the waiter returned with a new cup of coffee, the man took a sip and immediately knew that the waiter had just removed the fly and given him back the same cup of coffee. How did the man know that he was not served a fresh cup of coffee?
+4) A man found to fly in his coffee and sent his coffee back to the kitchen. 
+When the waiter returned with a new cup of coffee, 
+the man took a sip and immediately knew that the waiter 
+had just removed the fly and given him back the same cup of coffee. 
+How did the man know that he was not served a fresh cup of coffee?
 
 	
 5) Some months have 31 days, others have 30, how many have 28?
 
-6) A man is trapped in a room. The room has only two possible exits: two doors. Through the first door there is a room constructed from magnifying glass. The blazing hot sun instantly fries anything or anyone that enters. Through the second door there is a fire-breathing dragon. How does the man escape?
+6) A man is trapped in a room. 
+The room has only two possible exits: two doors. 
+Through the first door there is a room constructed from magnifying glass. 
+The blazing hot sun instantly fries anything or anyone that enters. 
+Through the second door there is a fire-breathing dragon. 
+How does the man escape?
 
 #### Goal of the practice
 Become familiar with the writing of algorithms in pseudo code, expressions, operands, operators, assignments, conditionals and the elementary logic required to program.
