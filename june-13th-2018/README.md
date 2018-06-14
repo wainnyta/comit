@@ -9,11 +9,11 @@ We have learnt about
 - Coding Style & Nomenclature
 
 ## Homework
-**READ AND STUDY THE SLIDES UNTIL YOU UNDERSTAND THE CONTENTS THOROUGHLY.**
-Please do all the algorithm practice exercises from Monday & today's class. 
-I prefer to have the homework submitted to me on paper.
-Next week I will go over the solutions to the homework. 
-Next class we will continue to learn about Algorithms. 
+- **READ AND STUDY THE SLIDES UNTIL YOU UNDERSTAND THE CONTENTS THOROUGHLY.**
+- Please do all the algorithm practice exercises from Monday & today's class. 
+  I prefer to have the homework submitted to me on paper.
+- Next week I will go over the solutions to the homework. 
+- Next class we will continue to learn about Algorithms. 
 
 ## Review
 ### Mutability of Variables
@@ -125,7 +125,7 @@ read(x);
 
 switch(x) {
     // ERRROR; YOU CANNOT DO RANGE CHECK HERE
-    // switch(x) means switch on THE REAL VALUE of x, not the possibility of what x might b
+    // switch(x) means switch on THE REAL VALUE of x, not the possibility of what x might be
     case (x > 10): 
       print ("X > 10");
       break;
