@@ -156,8 +156,10 @@ for (int counter = 0; counter < 5; counter++) {
 3 parts of the for declaration: 
 `for (int counter = 0; counter < 5; counter++)`
 
+```java
 1. int counter = 0; // 1st part is to initialize counter 
 2. counter < 5; // 2nd part is  the CONDITION to stop the for loop
 3. counter++; // What we do after finishing one iteration and about to move to the next one
+```
 
 Please go up and compare the for loop with while loop. 
