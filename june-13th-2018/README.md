@@ -47,8 +47,8 @@ x = 2 + 3;  // x <- 2 + 3
 ```
 
 ### Variable Declaration
-To "declare" a variable and assign it some initial value, follow the following syntax: 
-`<DataType> <VariableName> = <Value>`
+To "declare" a variable and assign it some initial value, follow the following syntax: \
+`<DataType> <VariableName> = <Value>` \
 Ex:
 ```java
 // Declare an integer called "year" and assign its value 20:
