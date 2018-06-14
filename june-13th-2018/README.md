@@ -8,15 +8,15 @@ We have learnt about
 - Operator Precedence
 - Coding Style & Nomenclature
 
-### Homework
-** READ AND STUDY THE SLIDES UNTIL YOU UNDERSTAND THE CONTENTS THOROUGHLY. **
+## Homework
+**READ AND STUDY THE SLIDES UNTIL YOU UNDERSTAND THE CONTENTS THOROUGHLY.**
 Please do all the algorithm practice exercises from Monday & today's class. 
 I prefer to have the homework submitted to me on paper.
 Next week I will go over the solutions to the homework. 
 Next class we will continue to learn about Algorithms. 
 
-### Review
-#### Mutability of Variables
+## Review
+### Mutability of Variables
 1. Variable: Its value can be changed throughout the course of the program.
 Ex: 
 ```java
@@ -31,7 +31,7 @@ final name = "Wainny";  // (valid) (name has the value "Wainny")
 name = "Comit";  // (INVALID) (because name's value is FINAL it cannot be reassigned to a new value)
 ```
 
-#### Assignment
+### Assignment
 Assignment always goes from right hand side to left hand side: 
 ```java
 /**
@@ -46,7 +46,7 @@ x = 2 + 3;  // x <- 2 + 3
 2 + 3 <- x; 
 ```
 
-#### Variable Declaration
+### Variable Declaration
 To "declare" a variable and assign it some initial value, follow the following syntax: 
 `<DataType> <VariableName> = <Value>`
 Ex:
@@ -64,7 +64,7 @@ String name = "ComIT";  // note double quotes
 char firstCharacter = 'a'; // note single quotes
 ```
 
-#### Difference between normal assignment and declaration
+### Difference between normal assignment and declaration
 To declare a variable you'll need to declare its `DataType`.
 Normal Assignment means you work with an already-declared variable.
 Ex: 
@@ -77,7 +77,7 @@ String school = "ComIT"; // note 'String'
 day = 17; 
 ```
 
-#### If conditional
+### If conditional
 Ex: 
 ```java
 int x = 0;
@@ -97,7 +97,7 @@ if (x > y) {
 }
 ```
 
-#### Switch 
+### Switch 
 Switch is very similar to If. The differences between *if* and *switch* are: 
 - Switch can only work with certain Data Type (cannot switch on boolean)
 - You switch on the *real value* of your *expression*, you cannot do range of values, however you can put multiple values in one switch case.
@@ -118,7 +118,7 @@ switch(character) {
       print "You have entered some character!";
 }
 ```
-** INVALID example **
+**INVALID example**
 ```java
 int x;
 read(x);
@@ -132,7 +132,7 @@ switch(x) {
 }
 ```
 
-#### While loop
+### While loop
 Pay attention to the conditions of while loop. Your code needs to know when the loop will stop execution.
 
 Ex:
@@ -144,7 +144,7 @@ while (counter < 5){
 }
 ```
 
-#### For loop
+### For loop
 When you know ahead of time about how many times you want your loop to run, you can simplify the *counter while loop* using a for loop.
 
 Ex:
