@@ -108,8 +108,8 @@ char character;
 read(character);
 
 switch(character) {
-    case('a'):
-      print "You have entered the first character of the alphabet!";
+    case('a', 'b'):
+      print "You have entered the first or second character of the alphabet!";
       break;
     case('z'):
       print "You have entered the last character of the alphabet!";
