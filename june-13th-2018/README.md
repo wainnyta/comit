@@ -17,7 +17,7 @@ We have learnt about
 
 ## Review
 ### Mutability of Variables
-1. Variable: Its value can be changed throughout the course of the program.
+1. Variable: Its value can change throughout the course of the program.
 Ex: 
 ```java
 x = 2; //(valid) (x has a value of 2)
@@ -100,7 +100,7 @@ if (x > y) {
 ### Switch 
 Switch is very similar to If. The differences between *if* and *switch* are: 
 - Switch can only work with certain Data Type (cannot switch on boolean)
-- You switch on the *real value* of your *expression*, you cannot do range of values, however you can put multiple values in one switch case.
+- You switch on the *real (concrete) value* of your *expression*, you cannot do range of values, however you can put multiple CONCRETE values in one switch case.
 
 Ex: 
 ```java
