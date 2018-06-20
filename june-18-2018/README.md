@@ -1,7 +1,7 @@
 # June 18th 2018
 
 I have uploaded the demo we did in class (Shopping.java). Feel free to download it and play around :) \
-\
+
 > **If you don't know how to install or run JAVA you can always study the algorithms!**
 
 In order to run it, you'd need to have JAVA installed on your machine, and then set JAVA_HOME in your environment path depending on your OS. 
