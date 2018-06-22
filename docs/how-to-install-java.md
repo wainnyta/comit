@@ -5,15 +5,16 @@ Watch video:
 https://www.youtube.com/watch?v=Wp6uS7CmivE
 
 
-1. Download Java JDK here (version 8.0 or higher) 
+**1. Download Java JDK here (version 8.0 or higher)** 
 
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
-2. Download IntelliJ Community Edition here
+**2. Download IntelliJ Community Edition here**
 
 https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC
 
-3. Add JAVA_HOME
+**3. Add JAVA_HOME**
+
 Search for "Edit Environment Variable". Click on the result link, Click "Environment Variables..." 
 
 Under "User Variables for Programming Knowledge"
@@ -26,12 +27,14 @@ Variable name: JAVA_HOME
 
 Variable value: Your link to installed jdk (EX: `C:\Program Files\Java\jdk1.8.0` (NOTE: DO NOT COPY THIS)
 
-4. Add to Path variable
+**4. Add to Path variable**
+
 Under System Variables:
 Find "Path"; double click on the value; and add the `jdk\bin` folder and `jre\bin` folder to Path; seperated by ;
 EX: `;C:\Program Files\Java\jdk\bin;C:\Program Files\Java\jre\bin`
 
-5. Verify you have JAVA installed properly
+**5. Verify you have JAVA installed properly**
+
 Open up Command Prompt, and type:
 ```java
 java -version
