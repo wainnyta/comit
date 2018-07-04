@@ -9,7 +9,7 @@ Create a 2-player game simulation of the game "Battleship".
 It will be YOU versus the COMPUTER.
 
 - Each player will have a battlefield board.
-  - Each board will have 10 spots and will look similar like this:
+  - Each board will have 10 spots where you can place your boats and will look similar like this:
   ```python
    ===== ===== ===== ===== ===== ===== ===== ===== ===== =====
   |     |     |     |     |     |     |     |     |     |     |
