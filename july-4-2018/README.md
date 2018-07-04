@@ -1,5 +1,8 @@
 # Java Array Practices
 
+## Last class practice questions: 
+https://github.com/wainny/comit/blob/master/june-29-2018/README.md
+
 ## 1D Battleship Game
 Create a 2-player game simulation of the game "Battleship". 
 
