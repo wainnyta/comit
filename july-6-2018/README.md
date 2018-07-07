@@ -1,15 +1,20 @@
 # Object Oriented Programming Practices
 
 1) Create a class called Book that stores the information for each of the books in a library. 
-The class should keep the title of the book, author, number of copies of the book and number of lend copies. The class will contain the following methods: Default constructor. Constructor with parameters. Setters / getters. Method Loan that increases the corresponding attribute each time a loan is made from the book. No books may be borrowed if no copies are available to lend. Returns true if the operation was successful and false otherwise. Returns method that decrements the corresponding attribute when a book is returned. No books can be returned that have not been lend. Returns true if the operation was successful and false otherwise. ToString method to display data from books. This method is inherited from Object and we must modify it (override) to adapt it to the Book class. Write a program to test the operation of the Book class.
+The class should keep the title of the book, author, number of copies of the book and number of lend copies. 
+
+The class will contain the following methods: 
+- Default constructor. 
+- Constructor with parameters. 
+- Setters / getters. 
+- Method Loan that increases the corresponding attribute each time a loan is made from the book. 
+No books may be borrowed if no copies are available to lend. Returns true if the operation was successful and false otherwise. Returns method that decrements the corresponding attribute when a book is returned. No books can be returned that have not been lend. Returns true if the operation was successful and false otherwise. 
+- ToString method to display data from books. This method is inherited from Object and we must modify it (override) to adapt it to the Book class. Write a program to test the operation of the Book class.
 
 
 2) Make a class called Person with the following conditions:
-
 Its attributes are: name, age, id, gender (M male, F female), weight and height. We do not want direct access to them. 
-
 Think which access modifier is the most appropriate, also its type. 
-
 If you want to add some extra attribute you can do it. By default, all attributes except the Id will be default values ​​according to their type (0 for numbers, empty string for String, etc.). Gender will be male by default, use a constant for it. Several constructors will be implemented: A default constructor. A constructor with the name, age and gender, the rest by default. A constructor with all the attributes as parameters. The methods that will be implemented are: Calculate (): calculate if the person is at his ideal weight (weight in kg / (height ^ 2 in meters)), return -1 if he is below his ideal weight, 0 if he’s at his ideal weight and 1 if he’s overweight. Use constants to return these values. isOver18 (): indicates if it is of legal age, it returns a Boolean. CheckGender(char gen): Check if the entered gender is correct. It will not be visible outside the class. ToString (): returns all object information. GeneratesID (): generates a random number of 8 digits. This method will be invoked when the object is built. You can split the method to make it easier for you. It will not be visible outside the class. Setter of each attribute except ID. 
 
 Now, create an executable class that does the following:
