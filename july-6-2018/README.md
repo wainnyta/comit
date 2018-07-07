@@ -1,7 +1,6 @@
 # Object Oriented Programming Practices
 
-1) Create a class called Book that stores the information for each of the books in a library. 
-The class should keep the title of the book, author, number of copies of the book and number of lend copies. 
+1) Create a class called Book that stores the information for each of the books in a library. The class should keep the title of the book, author, number of copies of the book and number of lend copies. 
 
 The class will contain the following methods: 
 - Default constructor. 
