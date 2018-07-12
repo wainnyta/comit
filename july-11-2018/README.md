@@ -1,4 +1,20 @@
 # OOP Practice
+
+## BikeStore
+ 1. Create a BikeStore.java 
+ that keeps track of an array of MotorBike
+ objects
+ 2. Write an add(MotorBike bike)
+ 3. Write a toString() for your BikeStore
+ 4. Write a randomAccelerate() that 
+ will accelerate a random bike of bikes[]
+ THEN MotorbikeProgram.java > main()
+ 5. create a BikeStore
+ 6. add 3 bikes to your store
+ 7. print BikeStore
+ 8. Call the randomAccelerate() method
+ 9. print BikeStore again
+
 ## ComIT Music Player
 ### Overview
 - Create a simulation of a "Music Player"
