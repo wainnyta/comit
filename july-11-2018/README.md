@@ -3,7 +3,7 @@
 ## BikeStore
  1. Create a BikeStore.java 
  that keeps track of an array of MotorBike
- objects
+ objects 
  2. Write an add(MotorBike bike)
  3. Write a toString() for your BikeStore
  4. Write a randomAccelerate() that 
@@ -18,6 +18,7 @@
 ## ComIT Music Player
 ### Overview
 - Create a simulation of a "Music Player"
+- Note: You can hardcode some number for the SIZE of Song list right now
 - Example output:
 ```java
 **********************
@@ -27,7 +28,7 @@
 **********************
 1- Show playlist
 2- Play a song
-3- Add a song
+3- Add a song 
 4- Quit
 Please enter your selection: 1
 
