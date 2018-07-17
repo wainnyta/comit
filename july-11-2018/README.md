@@ -18,7 +18,7 @@
 ## ComIT Music Player
 ### Overview
 - Create a simulation of a "Music Player"
-- Note: You can hardcode some number for the SIZE of Song list right now
+- Note: You can hardcode the size of Song's list right now (to any number you want)
 - Example output:
 ```java
 **********************
