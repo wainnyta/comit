@@ -1,4 +1,5 @@
-1 - Implement the class Position that represents a coordinate (x, y). Each position is defined by two integer values ​​x and y. Available operations are:
+### Question 1
+Implement the class Position that represents a coordinate (x, y). Each position is defined by two integer values ​​x and y. Available operations are:
 · Default constructor, corresponds to the position (0,0). 
 · Constructor with initial values ​​of X and Y 
 · Methods for modifying and querying (set / get) the attributes of the class. 
