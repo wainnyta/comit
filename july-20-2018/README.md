@@ -8,7 +8,7 @@
 - Add calculateCircumference() methods in:
 1. Measurable.java
 2. Circle.java: `circumference = 2 * 3.14 * radius`
-3. Rectangle.java: `circumference = (width + height) * 2
+3. Rectangle.java: `circumference = (width + height) * 2`
 4. Triangle.java: `circumference = (width + height + diagonal)`
 
 
