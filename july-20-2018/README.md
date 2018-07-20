@@ -1,4 +1,18 @@
-### PRACTICE QUESTIONS
+# PRACTICE QUESTIONS
+
+## Measurable
+- Complete the Measurable program's calculateArea() methods:
+1. Circle.java: `area = radius * 3.14`
+2. Rectangle.java: `area = width * height`
+3. Triangle.java: `area = (width * height) / 2`
+- Add calculateCircumference() methods in:
+1. Measurable.java
+2. Circle.java: `circumference = 2 * 3.14 * radius`
+3. Rectangle.java: `circumference = (width + height) * 2
+4. Triangle.java: `circumference = (width + height + diagonal)`
+
+
+## Animals
 1.  Build an interface called Animal.java. Build a Dog.java class that implements this interface.
 2. Build a Gato.java class that also implements the Animal.java class.
 3. Add the methods move () and eat () in the animal interface. None has to return anything, just write something by console.
