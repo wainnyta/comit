@@ -9,5 +9,5 @@
 3. Create a Manager class that extends the Employee class
   - Override the calculateSalary() method so that it also adds 2% of total income on top of current salary
 4. Create a Supervisor class that extends the Manager class
-  - Override the calculateSalary() method so that if he works for more than 35 hours, add (Overtime Hours * Base Salary) on top
+  - Override the calculateSalary() method so that if he works for more than 35 hours, add (#Hours Worked Overtime * Base Salary) on top
 5. Create an EmployeeProgram class and play around with your classes.
