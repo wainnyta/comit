@@ -30,3 +30,11 @@ When it asks you for the PROJECT NAME, please put in your desired APPLICATION's 
      <version>1.1.1</version>
 </dependency>
 ```
+
+- Compile project using maven:
+```
+mvn package
+```
+
+- Run project using:
+```java -jar target\<PATH_TO_SNAP_SHOT.jar> server config.xml```
