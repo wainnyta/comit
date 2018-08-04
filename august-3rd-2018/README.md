@@ -2,10 +2,7 @@
 ### Generate a new Dropwizard project
 - From the terminal / cmd, navigate to where you want to create your project, then run:
 ```java
-mvn archetype:generate \
-        -DarchetypeGroupId=io.dropwizard.archetypes \
-        -DarchetypeArtifactId=java-simple \
-        -DarchetypeVersion=1.0.2
+mvn archetype:generate -DarchetypeGroupId=io.dropwizard.archetypes -DarchetypeArtifactId=java-simple -DarchetypeVersion=1.0.2
 ```
 
 When it asks you for the PROJECT NAME, please put in your desired APPLICATION's Name in `UpperCamelCase` (for example: MyApp)
