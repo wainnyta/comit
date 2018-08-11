@@ -46,10 +46,8 @@
 	</build>
 </project>
 ```
-\src\main\java\webapp\LoginServlet.java
+\src\main\java\LoginServlet.java
 ```
-package webapp;
-
 import java.io.IOException;
 import java.io.PrintWriter;
 
