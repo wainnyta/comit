@@ -27,6 +27,7 @@ new Java Class "LoginServlet"
 19. Delete "package webapp;" (1st line)
 20. Under Terminal type and enter
 mvn tomcat7:run
+21. Goto localhost:8080 and congratulations on creating your very first webapp!
 
 \pom.xml
 ```
