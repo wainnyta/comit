@@ -1,4 +1,33 @@
 ## Servlets Tutorial
+
+### Steps:
+1. New Project
+2. Select "Maven" on left panel
+3. Checkbox "Create from archetype"
+4. Find and Select "maven-archetype-webapp"
+5. Click "Next"
+6. GroupID: org.comit
+7. ArtifactID: demowebapp
+8. Click "Next"
+9. Click "Next" until Finish
+10. Goto https://github.com/wainny/comit/tree/master/august-10th-2018
+11. Copy everything under \pom.xml and paste to
+project's pom.xml
+12. A little popup will appear on right corner
+13. Click "Import Changes" (for Maven)
+14. Go back to Github
+15. Copy & Replace everything for 
+the file src\main\webapp\WEB-INF\web.xml
+16. Under src\main create "java" directory
+17. Right click on "java" directory
+18. Select "Mark Directory as" -> "Sources Root"
+19. Under "java" directory create 
+new Java Class "LoginServlet"
+18. Goto github and copy&paste LoginServlet
+19. Delete "package webapp;" (1st line)
+20. Under Terminal type and enter
+mvn tomcat7:run
+
 \pom.xml
 ```
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
