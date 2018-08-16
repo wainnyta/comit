@@ -1,5 +1,8 @@
 ## MySQL Install
 
+### Microsoft Visual C++ 2015 Redistribution Package x64
+https://www.microsoft.com/en-us/download/confirmation.aspx?id=52685
+
 ### Install MySQL Community Edition
 https://dev.mysql.com/downloads/mysql/
 
